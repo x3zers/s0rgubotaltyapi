@@ -1,9 +1,9 @@
 module.exports = {
 
-    token: "MTA1NjY2OTQxMjM1MjA2NTYzOA.Golj3q.0miTfUsH46oex9jlPJ8jxBijrJki7qUClX5aXc",
+    token: "MTA4OTk4Njg3MDE1NjQ4MDU0Mw.G4y-uZ.jhl7zH_lL3Hv5Ew2W2k2D4IapTF7c0nzOrNugM",
     prefix: "!",
     sahip: "643460587405312020",
-    durum: "Minecraft Prosu Zers :);)",
+    durum: "bizitanımıyongaliba",
 
     api: {
         TCKN: "",
@@ -43,7 +43,9 @@ module.exports = {
 
     sunucuID: "",
     kanal: [""],
-    seskanal: "1063094073063383050",
+    seskanal: "1090636953369718896",
+    seskanal: "1090636953369718896",
+    seskanal: "1090636953369718896",
 
     sorgulimit: "5",
 

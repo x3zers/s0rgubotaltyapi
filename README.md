@@ -1,10 +1,10 @@
 nasil calistiririm?
 
-npm i
+1- npm i
 
-node atahan.js
+2- node zers.js
 
-node 16 ve ustu :)
+node 16 ve ustu olacak sekilde
 
 
 
